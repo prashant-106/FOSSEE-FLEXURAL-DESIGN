@@ -1,0 +1,13 @@
+The applied moment exceeds the moment capacity! Moment capacity (Md): 10.00 kNm, Applied moment (M): 350.0 kNm.
+To be safe, increase the section modulus (Ze) to at least 14000.00 mm³.
+
+The applied shear force exceeds the shear capacity! Shear capacity (Vd): 0.13 kN, Applied shear (V): 750.0 kN.
+To be safe, increase the shear area (A_v) to at least 6250.00 mm².
+
+Deflection Results:
+Bending Deflection (mm): 0.00068359375
+Shear Deflection (mm): 8.125000000000001e-06
+Total Deflection (mm): 0.00069171875
+Permissible Deflection (mm): 16.666666666666668
+Is Safe: Yes
+Recommendation: Beam design is within permissible limits.

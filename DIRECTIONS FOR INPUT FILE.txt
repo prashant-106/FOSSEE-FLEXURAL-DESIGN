@@ -1,0 +1,14 @@
+DIRECTIONS FOR INPUT FILE
+
+ V: Applied shear force in kN
+ M: Applied moment in kNm
+ L: Effective span in mm
+ Ze: Effective section modulus in mm³
+fy: Yield stress in MPa
+ gamma_m0: Partial safety factor for material
+ beta_b: Bending coefficient
+ A_v: Shear area in mm²
+ tau_v: Shear coefficient
+
+
+IN THIS ORDER ITSELF THE INPUT FILE HAS ALL THE SPECIFICATIONS. PLEASE CHANGE IT ACCORDINGLY
